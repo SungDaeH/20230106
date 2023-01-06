@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/web"
+		},
+		{
+			"path": "../../Downloads/just"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "황성대"
+	}
+}
